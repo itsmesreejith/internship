@@ -14,3 +14,7 @@ Polytechnic Student
 
 *Over the course of my internship, I was involved in various projects that allowed me to apply my knowledge and skills to real-world scenarios. These projects ranged from developing predictive models for customer churn analysis to creating recommendation systems based on collaborative filtering. Working closely with a team of professionals, I gained insights into the industry's best practices, problem-solving strategies, and project management methodologies. The collaborative environment fostered a spirit of innovation and provided a platform for continuous learning.*
 
+*During the internship, I participated in a structured program that encompassed theoretical learning, practical training, and project-based assignments. The curriculum included modules on Python programming fundamentals, data manipulation, visualization, statistical analysis, and machine learning algorithms. Through hands-on exercises, I honed my coding skills and gained familiarity with popular Python libraries such as NumPy, Pandas, Matplotlib, and scikit-learn. Additionally, I had the opportunity to implement and experiment with machine learning models for tasks such as classification, regression, and clustering.*
+
+
+
