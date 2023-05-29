@@ -3,7 +3,7 @@
 ## **Title: Internship Report on Python and Machine Learning in Jyothi Engineering College**
 
 ### Date: 29/5/2023
-### Sreejith C
+### Sreejith C 
 Polytechnic Student 
 
 *The following report provides an overview and reflection of my internship experience in Python and Machine Learning at Jyothi Engineering College.*
