@@ -4,7 +4,7 @@
 
 ### Date: 29/5/2023
 ### Sreejith C
-### Polytechnic ct Student 
+Polytechnic Student 
 
 *The following report provides an overview and reflection of my internship experience in Python and Machine Learning at Jyothi Engineering College.*
 *As a polytechnic student pursuing  this internship has offered me valuable exposure to the practical applications of Python programming and its integration with Machine Learning techniques.*
