@@ -2,9 +2,9 @@
 
 ## **Title: Internship Report on Python and Machine Learning in Jyothi Engineering College**
 
-### Date: 29/5/2023
-### Sreejith C 
-Polytechnic Student 
+1.  12/10/2004
+2. E-MAIL ID:sreejithc774@gmail.com
+3. PH NO:9946335695
 
 *The following report provides an overview and reflection of my internship experience in Python and Machine Learning at Jyothi Engineering College.*
 *As a polytechnic student pursuing  this internship has offered me valuable exposure to the practical applications of Python programming and its integration with Machine Learning techniques.*
@@ -16,7 +16,10 @@ Polytechnic Student
 
 *During the internship, I participated in a structured program that encompassed theoretical learning, practical training, and project-based assignments. The curriculum included modules on Python programming fundamentals, data manipulation, visualization, statistical analysis, and machine learning algorithms. Through hands-on exercises, I honed my coding skills and gained familiarity with popular Python libraries such as NumPy, Pandas, Matplotlib, and scikit-learn. Additionally, I had the opportunity to implement and experiment with machine learning models for tasks such as classification, regression, and clustering.*
 
-
+# ONLINE COMPILER
+- GOOGLE COLAB
+- HACKERSRANK
+- w3 school 
 
 
 
