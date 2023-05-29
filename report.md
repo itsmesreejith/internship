@@ -5,8 +5,8 @@
 ### Sreejith C
 ### 1. E-MAIL ID:sreejithc774@gmail.com
 ### 2. PH NO:9946335695
-*Hello, everyone! My name is Sreejith, and I'm a student of Computer Engineering at a Govt polytechnic Chellakara. I have always been fascinated by the world of technology and computers,
-I successfully completed my 10th-grade education at GVHSS Thiruvilwamal, where I gained a solid foundation in academics. Currently, I am pursuing a diploma in computer engineering at GPC Chelakkara, which signifies my passion for the world of technology.*
+''' Hello, everyone! My name is Sreejith, and I'm a student of Computer Engineering at a Govt polytechnic Chellakara. I have always been fascinated by the world of technology and computers,
+I successfully completed my 10th-grade education at GVHSS Thiruvilwamal, where I gained a solid foundation in academics. Currently, I am pursuing a diploma in computer engineering at GPC Chelakkara, which signifies my passion for the world of technology.
 
 Embarking on the path of computer engineering is an excellent choice, as it opens up a realm of opportunities in the ever-evolving field of technology. With each passing day, advancements in computer engineering present innovative solutions and shape the future of our digital world. I am confident that through my studies at GPC Chelakkara, I will gain the knowledge and skills necessary to contribute meaningfully to this exciting industry.
 
@@ -18,7 +18,7 @@ As I progress in my studies and further hone my skills, I look forward to levera
 
 I am excited to be a part of this technological era and witness firsthand the transformative power of computer engineering. Feel free to reach out to me if you have any questions or if there's anything specific you'd like to discuss regarding computer engineering or any related topics.
 
-Wishing you all the best in your educational journey and future endeavors*
+Wishing you all the best in your educational journey and future endeavors'''
 
 ## INTERNSHIP INTRO
 
