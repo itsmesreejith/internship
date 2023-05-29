@@ -20,7 +20,7 @@ I am excited to be a part of this technological era and witness firsthand the tr
 
 Wishing you all the best in your educational journey and future endeavors*
 
-##INTERNSHIP INTRO
+## INTERNSHIP INTRO
 
 *The following report provides an overview and reflection of my internship experience in Python and Machine Learning at Jyothi Engineering College.*
 *As a polytechnic student pursuing  this internship has offered me valuable exposure to the practical applications of Python programming and its integration with Machine Learning techniques.*
